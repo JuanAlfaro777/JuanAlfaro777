@@ -54,11 +54,11 @@ Técnico en Seguridad Informática con enfoque en ingeniería de datos, automati
 ## 🌟 Proyectos destacados
 
 
-- Asistente_IA
+- Asistente IA.
 
-- Analizar imágenes de tradingview.com con OpenAI
+- Analizar imágenes de tradingview.com con OpenAI.
 
-- Automatizacion de Correos
+- Automatizacion de Correos.
 
 ## 📫 Contacto
 
