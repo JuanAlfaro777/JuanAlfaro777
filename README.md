@@ -55,19 +55,14 @@ Técnico en Seguridad Informática con enfoque en ingeniería de datos, automati
 
 
 - Asistente_IA
-Un agente conversacional potenciado con IA (OpenAI) y SerpAPI, diseñado para responder mensajes desde Telegram o webhooks. Mantiene el contexto usando memoria conversacional (MemoryBufferWindow). Ideal para integrar con herramientas externas como Google Sheets o agendas.
 
 - Analizar imágenes de tradingview.com con OpenAI
-Este flujo está diseñado para integrarse con una extensión de navegador o cualquier sistema que pueda capturar imágenes de gráficos de trading.
 
 - Automatizacion de Correos
-Un sistema de campañas automatizadas por Gmail que envía correos masivos y, en caso de no recibir respuesta, realiza un seguimiento automático. Ideal para marketing, retención de usuarios o campañas comerciales personalizadas.
 
 ## 📫 Contacto
 
 - ✉ alfajuanma21@gmail.com
-- 📁 [Repositorio de flujos n8n + OpenAI](https://github.com/JuanAlfaro777)
-
 ---
 
 Gracias por visitar mi perfil 🙌 
